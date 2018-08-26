@@ -9,7 +9,7 @@ rmd_files:
 
     "Foundations.Rmd",
     "Names-values.Rmd",
-    "Data-structures.Rmd",
+    "Vectors.Rmd",
     "Subsetting.Rmd",
     "Functions.Rmd",
     "Environments.Rmd",
@@ -17,8 +17,8 @@ rmd_files:
     "Connections.Rmd",
 
     "FP.Rmd",
-    "Functional-programming.Rmd",
     "Functionals.Rmd",
+    "Function-factories.Rmd",
     "Function-operators.Rmd",
 
     "OO.Rmd",
@@ -39,5 +39,7 @@ rmd_files:
     "Performance.Rmd",
     "Profiling.Rmd",
     "Rcpp.Rmd",
+
+    "References.Rmd",
   ]
 
