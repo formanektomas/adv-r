@@ -1,8 +1,8 @@
-# Advanced R programming
+# Advanced R
 
 [![Build Status](https://travis-ci.org/hadley/adv-r.svg?branch=master)](https://travis-ci.org/hadley/adv-r)
 
-This is code and text behind the [Advanced R programming](http://adv-r.hadley.nz)
+This is code and text behind the [Advanced R](http://adv-r.hadley.nz)
 book.  The site is built with [bookdown](https://bookdown.org/yihui/bookdown/).
 
 ## Diagrams
@@ -17,6 +17,7 @@ Omnigraffle:
 
 * Conventions:
     * Text is set in inconsolata 10pt, with text padding set to 3. 
+    * Emoji set in "Apple Color Emoji" 8pt.
     * Default scalar size is 6mm x 6mm.
     * Symbols have 4pt rounded corners and plum border.
     * Arrow heads should be set to 75%.
@@ -35,3 +36,8 @@ RMarkdown
 
 * Beware caching: after changing the size of an image you may need to
   clear the cache before it is correctly updated.
+
+## Code of conduct
+
+Please note that Advanced R is released with a [Contributor Code of Conduct](CODE_OF_CONDUCT.md).
+By contributing to this project, you agree to abide by its terms.
